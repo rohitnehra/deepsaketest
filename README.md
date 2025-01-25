@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bolt.diy (Previously oTToDev)
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
@@ -350,3 +351,4 @@ Explore upcoming features and priorities on our [Roadmap](https://roadmap.sh/r/o
 ## FAQ
 
 For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
+=======
